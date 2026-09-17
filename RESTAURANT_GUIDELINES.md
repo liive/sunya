@@ -13,3 +13,5 @@
 
 - Svetainės apačioje pateikti oficialių Facebook ir Instagram paskyrų nuorodas, kai jos patvirtintos. Nuorodas aiškiai pavadinti „Facebook“ ir „Instagram“.
 - Būsimame README.md rašyti tik restorano pavadinimą. Visa kita projekto informacija saugoma atskiruose dokumentacijos failuose.
+
+- Wolt ir Bolt Food pateikti kaip kompaktiškas tekstines nuorodas viršuje, suderintas su navigacija. Telefone lygiuoti kairėje; vengti didelių centruotų mygtukų.
